@@ -12,4 +12,4 @@ CORS(app)
 
 @app.route("/")
 def hello():
-    return "Hello, <Yousef Abouamer/ya99!"
+    return "Hello, <Yousef Abouamer/ya99"
